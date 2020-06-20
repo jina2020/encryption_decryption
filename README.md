@@ -6,6 +6,7 @@ A message encrypting and decrypting program using Vigenère encryption
 
 Rules
 Users have to enter a message to encrypt and a key of encryption (these values must be in ASCII String!).
+!!!Any special caracters will be replaced by a space!!!
 Then the program will : 
 1. Show the Vigenere table
 2. Encrypt the user's message using the key entered by the user
